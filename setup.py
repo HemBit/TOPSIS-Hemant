@@ -7,7 +7,7 @@ setup(
   description = 'Topsis Program',   # Give a short description about your library
   author = 'Hemant Verma',                   # Type in your name
   author_email = 'hverma2407@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
+  url = 'https://github.com/HemBit/TOPSIS-Hemant',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/HemBit/TOPSIS-Hemant/archive/V_01.tar.gz',    # I explain this later on
   keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
